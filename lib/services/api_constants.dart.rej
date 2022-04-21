@@ -1,0 +1,9 @@
+diff a/alsadhan/lib/services/api_constants.dart b/alsadhan/lib/services/api_constants.dart	(rejected hunks)
+@@ -28,5 +28,7 @@
+ var CLEAR_CART ='Cart/DeleteCartByUserId/';
+ var CHANGE_PASSWORD = 'User/ChangePassword/';
+ 
++var SENDFIREBASETOKENURL = "User/UpdateDeviseTokenByUserId";
++
+ 
+ 
